@@ -9,6 +9,8 @@ crash-reports/**
 dynmap/*
 !dynmap/configuration.txt
 libraries/**
+white-list.txt
+ops.txt
 
 # OS generated files #
 ######################
